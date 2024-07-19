@@ -7,6 +7,7 @@ The grid has a keypad layout
 4 | 5 | 6
 ---------
 7 | 8 | 9
+---------
 
 Make a move in position 1 - 9
 3 in a row to win like normal tic tac toe
